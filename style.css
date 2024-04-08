@@ -1,0 +1,39 @@
+.img1{
+    width: 500px;
+    float: right;
+}
+.altalanos{
+    color: rgb(143, 12, 12);
+}
+.test{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+body{
+    background-color: rgb(202, 202, 202);
+}
+.elo{
+    color: rgb(216, 103, 10);
+}
+.kep{
+    color: aquamarine;
+}
+.navbar{
+    overflow: hidden;
+}
+.navbar a {
+    float: left;
+    color: #1f8808;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .phalo1{
+    border-radius: 50px;
+
+  }
